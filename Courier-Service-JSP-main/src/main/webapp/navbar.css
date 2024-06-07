@@ -1,0 +1,29 @@
+/* navbar.css */
+
+/* Navigation Bar CSS */
+nav {
+    background-color: #333; /* Background color */
+    color: #fff; /* Text color */
+    font-family: 'Lato', sans-serif; /* Lato font */
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px; /* Adjust spacing between menu items */
+}
+
+nav ul li a {
+    color: #fff; /* Link color */
+    text-decoration: none;
+    padding: 10px; /* Adjust padding as needed */
+}
+
+nav ul li a:hover {
+    background-color: #555; /* Hover background color */
+}
