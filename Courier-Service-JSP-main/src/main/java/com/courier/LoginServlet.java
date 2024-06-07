@@ -23,7 +23,7 @@ public class LoginServlet extends HttpServlet {
 
         String dbURL = "jdbc:mysql://localhost:3306/courier_service";
         String dbUser = "root";
-        String dbPassword = "Naveen@123";
+        String dbPassword = "7893891841";
 
         try {
             Connection conn = DriverManager.getConnection(dbURL, dbUser, dbPassword);
